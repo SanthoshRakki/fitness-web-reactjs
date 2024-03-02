@@ -1,0 +1,1119 @@
+{
+  "Notes": [
+    {
+      "id": 5,
+      "note": "ggg",
+      "datetime": "February 29 2024 10:34:58 PM"
+    },
+    {
+      "id": 6,
+      "note": "gggg",
+      "datetime": "February 29 2024 10:35:03 PM"
+    },
+    {
+      "id": 7,
+      "note": "ggg",
+      "datetime": "February 29 2024 10:35:12 PM"
+    }
+  ],
+  "proteinContent": [
+    {
+      "id": "1",
+      "FoodItem": "Salmon",
+      "Quantity": "100g",
+      "Content": "25g"
+    },
+    {
+      "id": "2",
+      "FoodItem": "Tofu",
+      "Quantity": "150g",
+      "Content": "18g"
+    },
+    {
+      "id": "3",
+      "FoodItem": "Cottage Cheese",
+      "Quantity": "200g",
+      "Content": "28g"
+    },
+    {
+      "id": "4",
+      "FoodItem": "Turkey Breast",
+      "Quantity": "100g",
+      "Content": "29g"
+    },
+    {
+      "id": "5",
+      "FoodItem": "Quinoa",
+      "Quantity": "1 cup cooked",
+      "Content": "8g"
+    },
+    {
+      "id": "6",
+      "FoodItem": "Lentils",
+      "Quantity": "1 cup cooked",
+      "Content": "18g"
+    },
+    {
+      "id": "7",
+      "FoodItem": "Chickpeas",
+      "Quantity": "1 cup cooked",
+      "Content": "15g"
+    },
+    {
+      "id": "8",
+      "FoodItem": "Peanut Butter",
+      "Quantity": "2 tablespoons",
+      "Content": "8g"
+    }
+  ],
+  "carboContent": [
+    {
+      "id": "1",
+      "FoodItem": "Brown Rice",
+      "Quantity": "1 cup cooked",
+      "Content": "45g"
+    },
+    {
+      "id": "2",
+      "FoodItem": "Sweet Potato",
+      "Quantity": "1 medium",
+      "Content": "26g"
+    },
+    {
+      "id": "3",
+      "FoodItem": "Oats",
+      "Quantity": "1 cup cooked",
+      "Content": "54g"
+    },
+    {
+      "id": "4",
+      "FoodItem": "Banana",
+      "Quantity": "1 medium",
+      "Content": "27g"
+    },
+    {
+      "id": "5",
+      "FoodItem": "Quinoa",
+      "Quantity": "1 cup cooked",
+      "Content": "39g"
+    },
+    {
+      "id": "6",
+      "FoodItem": "Whole Wheat Bread",
+      "Quantity": "2 slices",
+      "Content": "24g"
+    },
+    {
+      "id": "7",
+      "FoodItem": "Pasta",
+      "Quantity": "1 cup cooked",
+      "Content": "43g"
+    },
+    {
+      "id": "8",
+      "FoodItem": "Apples",
+      "Quantity": "1 medium",
+      "Content": "25g"
+    }
+  ],
+  "fatContent": [
+    {
+      "id": "1",
+      "FoodItem": "Avocado",
+      "Quantity": "1 medium",
+      "Content": "21g"
+    },
+    {
+      "id": "2",
+      "FoodItem": "Olive Oil",
+      "Quantity": "1 tablespoon",
+      "Content": "14g"
+    },
+    {
+      "id": "3",
+      "FoodItem": "Almonds",
+      "Quantity": "1 ounce",
+      "Content": "14g"
+    },
+    {
+      "id": "4",
+      "FoodItem": "Salmon",
+      "Quantity": "3 ounces",
+      "Content": "13g"
+    },
+    {
+      "id": "5",
+      "FoodItem": "Chia Seeds",
+      "Quantity": "2 tablespoons",
+      "Content": "9g"
+    },
+    {
+      "id": "6",
+      "FoodItem": "Walnuts",
+      "Quantity": "1 ounce",
+      "Content": "18g"
+    },
+    {
+      "id": "7",
+      "FoodItem": "Peanut Butter",
+      "Quantity": "2 tablespoons",
+      "Content": "16g"
+    },
+    {
+      "id": "8",
+      "FoodItem": "Cheese (Cheddar)",
+      "Quantity": "1 ounce",
+      "Content": "9g"
+    }
+  ],
+  "fiberContent": [
+    {
+      "id": "1",
+      "FoodItem": "Broccoli",
+      "Quantity": "1 cup cooked",
+      "Content": "5g"
+    },
+    {
+      "id": "2",
+      "FoodItem": "Raspberries",
+      "Quantity": "1 cup",
+      "Content": "8g"
+    },
+    {
+      "id": "3",
+      "FoodItem": "Oat Bran",
+      "Quantity": "1/2 cup",
+      "Content": "7g"
+    },
+    {
+      "id": "4",
+      "FoodItem": "Chia Seeds",
+      "Quantity": "2 tablespoons",
+      "Content": "10g"
+    },
+    {
+      "id": "5",
+      "FoodItem": "Lentils",
+      "Quantity": "1 cup cooked",
+      "Content": "15g"
+    }
+  ],
+  "vitaminContent": [
+    {
+      "id": "1",
+      "FoodItem": "Spinach",
+      "Quantity": "1 cup cooked",
+      "Content": "987% DV (Vitamin K), 47% DV (Vitamin C)"
+    },
+    {
+      "id": "2",
+      "FoodItem": "Carrots",
+      "Quantity": "1 medium",
+      "Content": "428% DV (Vitamin A), 10% DV (Vitamin K)"
+    },
+    {
+      "id": "3",
+      "FoodItem": "Oranges",
+      "Quantity": "1 medium",
+      "Content": "93% DV (Vitamin C)"
+    },
+    {
+      "id": "4",
+      "FoodItem": "Almonds",
+      "Quantity": "1 ounce",
+      "Content": "7% DV (Calcium), 76% DV (Vitamin E)"
+    },
+    {
+      "id": "5",
+      "FoodItem": "Salmon",
+      "Quantity": "3 ounces",
+      "Content": "79% DV (Vitamin D), 59% DV (Vitamin B12)"
+    }
+  ],
+  "mineralContent": [
+    {
+      "id": "1",
+      "FoodItem": "Kale",
+      "Quantity": "1 cup cooked",
+      "Content": "9% DV (Calcium), 26% DV (Magnesium)"
+    },
+    {
+      "id": "2",
+      "FoodItem": "Bananas",
+      "Quantity": "1 medium",
+      "Content": "8% DV (Potassium), 1% DV (Iron)"
+    },
+    {
+      "id": "3",
+      "FoodItem": "Pumpkin Seeds",
+      "Quantity": "1 ounce",
+      "Content": "23% DV (Iron), 37% DV (Magnesium)"
+    },
+    {
+      "id": "4",
+      "FoodItem": "Yogurt",
+      "Quantity": "1 cup",
+      "Content": "49% DV (Calcium), 12% DV (Phosphorus)"
+    },
+    {
+      "id": "5",
+      "FoodItem": "Sweet Potatoes",
+      "Quantity": "1 medium",
+      "Content": "7% DV (Potassium), 20% DV (Manganese)"
+    }
+  ],
+  "bgwInitialPlan": [
+    {
+      "id": "1",
+      "head": "Day 1: Full Body Workout",
+      "list": [
+        "Squats: 3 sets x 8-12 reps",
+        "Bench Press: 3 sets x 8-12 reps",
+        "Deadlifts: 3 sets x 8-12 reps",
+        "Overhead Press: 3 sets x 8-12 reps"
+      ]
+    },
+    {
+      "id": "2",
+      "head": "Day 2: Rest or Light Cardio",
+      "list": [
+        "Rest day or engage in light cardiovascular exercise like walking or cycling for 30 minutes."
+      ]
+    },
+    {
+      "id": "3",
+      "head": "Full Body Workout",
+      "list": [
+        "Cardiovascular exercise (running, cycling, or elliptical): 30-45 minutes",
+        "Planks: 3 sets x 30-60 seconds",
+        "Russian Twists: 3 sets x 15-20 reps",
+        "Leg Raises: 3 sets x 12-15 reps"
+      ]
+    },
+    {
+      "id": "4",
+      "head": "Day 4: Rest or Light Cardio",
+      "list": [
+        "Rest day or light cardiovascular exercise."
+      ]
+    },
+    {
+      "id": "5",
+      "head": "Day 5: Upper Body Workout",
+      "list": [
+        "Pull-ups or Lat Pulldowns: 3 sets x 8-12 reps",
+        "Dumbbell Rows: 3 sets x 10-15 reps",
+        "Dumbbell Bench Press: 3 sets x 8-12 reps",
+        "Dumbbell Shoulder Press: 3 sets x 10-15 reps",
+        "Tricep Dips: 3 sets x 12-15 reps"
+      ]
+    },
+    {
+      "id": "6",
+      "head": "Day 6: Lower Body and Cardio",
+      "list": [
+        "Leg Press: 3 sets x 10-15 reps",
+        "Lunges: 3 sets x 12-16 reps (each leg)",
+        "Leg Curls: 3 sets x 10-15 reps",
+        "Cardiovascular exercise: 20-30 minutes"
+      ]
+    },
+    {
+      "id": "7",
+      "head": "Day 7: Rest or Active Recovery",
+      "list": [
+        "Rest day or engage in light activities like walking, yoga, or stretching."
+      ]
+    },
+    {
+      "id": "8",
+      "head": "Nutrition Tips:",
+      "list": [
+        "Consume a calorie surplus: Eat more calories than your body burns to promote weight gain.",
+        "Include a balance of macronutrients: Proteins, carbohydrates, and healthy fats.",
+        "Eat protein-rich foods: Include sources like lean meats, dairy, eggs, and legumes in your diet.",
+        "Stay hydrated: Drink plenty of water throughout the day.",
+        "Consider consulting a nutritionist for personalized advice."
+      ]
+    }
+  ],
+  "bgwPostPlan": [
+    {
+      "id": "1",
+      "workout": "Weeks 1-2: Foundation Building",
+      "Days": [
+        "Full Body Workout",
+        "Rest or Light Cardio",
+        "Full Body Workout",
+        "Rest or Light Cardio",
+        "Upper Body Workout",
+        "Lower Body and Cardio",
+        "Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "2",
+      "workout": "Weeks 3-4: Increasing Intensity",
+      "Days": [
+        "Full Body Workout (increase weights slightly)",
+        "Rest or Light Cardio",
+        "Full Body Workout (add an extra set to each exercise)",
+        "Rest or Light Cardio",
+        "Upper Body Workout (increase weights slightly)",
+        "Lower Body and Cardio (introduce a new lower body exercise)",
+        "Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "3",
+      "workout": "Weeks 5-6: Progressive Overload",
+      "Days": [
+        "Full Body Workout (focus on progressive overload, increase weights)",
+        "Rest or Light Cardio",
+        "Full Body Workout (maintain increased sets and weights)",
+        "Rest or Light Cardio",
+        "Upper Body Workout (increase weights and focus on form)",
+        "Lower Body and Cardio (progressively overload lower body exercises)",
+        "Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "4",
+      "workout": "Weeks 7-8: Refinement and Consistency",
+      "Days": [
+        "Full Body Workout (fine-tune form, maintain or slightly increase weights)",
+        "Rest or Light Cardio",
+        "Full Body Workout (focus on mind-muscle connection)",
+        "Rest or Light Cardio",
+        "Upper Body Workout (challenge yourself with increased intensity)",
+        "Lower Body and Cardio (maintain intensity, consider adding a new cardio challenge)",
+        "Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "5",
+      "workout": "Nutrition Tips (Throughout the 2 Months):",
+      "Days": [
+        "Adjust caloric intake based on weight gain progress.",
+        "Regularly assess and adjust protein, carbohydrate, and fat intake.",
+        "Stay hydrated and consider post-workout nutrition for recovery.",
+        "Monitor weight gain and adjust nutrition as needed.",
+        "Always listen to your body, ensure proper rest, and consult with a fitness professional or healthcare provider if you have any concerns or health conditions."
+      ]
+    }
+  ],
+  "blwInitialPlan": [
+    {
+      "id": "1",
+      "head": "Day 1: Full Body Strength Training",
+      "list": [
+        "Squats: 3 sets x 10-15 reps",
+        "Push-ups: 3 sets x 10-15 reps",
+        "Bent Over Rows: 3 sets x 12-20 reps",
+        "Planks: 3 sets x 30-60 seconds",
+        "Cardio: 20 minutes (choose from running, cycling, or elliptical)"
+      ]
+    },
+    {
+      "id": "2",
+      "head": "Day 2: Rest or Light Cardio",
+      "list": [
+        "Rest day or engage in light cardiovascular exercise like walking or cycling for 30 minutes."
+      ]
+    },
+    {
+      "id": "3",
+      "head": "Day 3: Cardio and Core",
+      "list": [
+        "Cardiovascular exercise (running, cycling, or elliptical): 30-45 minutes",
+        "Russian Twists: 3 sets x 15-20 reps",
+        "Leg Raises: 3 sets x 12-15 reps",
+        "Mountain Climbers: 3 sets x 20-30 reps"
+      ]
+    },
+    {
+      "id": "4",
+      "head": "Day 4: Rest or Light Cardio",
+      "list": [
+        "Rest day or light cardiovascular exercise."
+      ]
+    },
+    {
+      "id": "5",
+      "head": "Day 5: High-Intensity Interval Training (HIIT)",
+      "list": [
+        "HIIT Workout: 20-30 minutes (e.g., 30 seconds high intensity, 30 seconds rest)",
+        "Bodyweight Exercises (e.g., Burpees, Jump Squats, High Knees)"
+      ]
+    },
+    {
+      "id": "6",
+      "head": "Day 6: Lower Body and Cardio",
+      "list": [
+        "Lunges: 3 sets x 12-16 reps (each leg)",
+        "Deadlifts: 3 sets x 10-15 reps",
+        "Leg Press: 3 sets x 10-15 reps",
+        "Cardiovascular exercise: 20-30 minutes"
+      ]
+    },
+    {
+      "id": "7",
+      "head": "Day 7: Rest or Active Recovery",
+      "list": [
+        "Rest day or engage in light activities like walking, yoga, or stretching."
+      ]
+    },
+    {
+      "id": "8",
+      "head": "Weeks 2-4: Increase Intensity",
+      "list": [
+        "Gradually increase the duration or intensity of cardiovascular exercises.",
+        "Increase the difficulty of strength training exercises by adding more weight or incorporating advanced variations."
+      ]
+    },
+    {
+      "id": "9",
+      "head": "Weeks 5-8: Add Variety and Progress",
+      "list": [
+        "Introduce new exercises or variations to keep the workouts challenging.",
+        "Continue to monitor and adjust the intensity of your workouts based on progress."
+      ]
+    },
+    {
+      "id": "10",
+      "head": "Nutrition Tips:",
+      "list": [
+        "Create a calorie deficit by consuming fewer calories than your body burns.",
+        "Prioritize whole foods, lean proteins, vegetables, and whole grains.",
+        "Stay hydrated and avoid sugary drinks and excessive snacking.",
+        "Consider consulting a nutritionist for personalized advice.",
+        "Remember, consistency is key for weight loss. Be patient and make adjustments to your workout routine and diet as needed. Always listen to your body and consult with a fitness professional or healthcare provider if you have any concerns or health conditions."
+      ]
+    }
+  ],
+  "blwPostPlan": [
+    {
+      "id": "1",
+      "workout": "Weeks 1-2: Foundation Building",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (30 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (40 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (20 minutes)",
+        "Day 6: Lower Body and Cardio (30 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "2",
+      "workout": "Weeks 3-4: Increasing Intensity",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (35 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (45 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (25 minutes)",
+        "Day 6: Lower Body and Cardio (35 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "3",
+      "workout": "Weeks 5-6: Progressive Overload",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (40 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (50 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (30 minutes)",
+        "Day 6: Lower Body and Cardio (40 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "4",
+      "workout": "Weeks 7-8: Refinement and Consistency",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (45 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (55 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (35 minutes)",
+        "Day 6: Lower Body and Cardio (45 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "5",
+      "workout": "Nutrition Tips (Throughout the 2 Months):",
+      "Days": [
+        "Create a calorie deficit by consuming fewer calories than your body burns.",
+        "Prioritize whole foods, lean proteins, vegetables, and whole grains.",
+        "Stay hydrated and avoid sugary drinks and excessive snacking.",
+        "Monitor your progress and adjust your calorie intake as needed.",
+        "Remember, individual progress may vary, so listen to your body and make adjustments based on your needs. If you have any health concerns or conditions, it's advisable to consult with a healthcare professional or fitness expert before starting a new exercise program."
+      ]
+    }
+  ],
+  "igwInitialPlan": [
+    {
+      "id": "1",
+      "head": "Day 1: Full Body Workout",
+      "list": [
+        "Squats: 3 sets x 8-12 reps",
+        "Bench Press: 3 sets x 8-12 reps",
+        "Deadlifts: 3 sets x 8-12 reps",
+        "Overhead Press: 3 sets x 8-12 reps"
+      ]
+    },
+    {
+      "id": "2",
+      "head": "Day 2: Rest or Light Cardio",
+      "list": [
+        "Rest day or engage in light cardiovascular exercise like walking or cycling for 30 minutes."
+      ]
+    },
+    {
+      "id": "3",
+      "head": "Full Body Workout",
+      "list": [
+        "Cardiovascular exercise (running, cycling, or elliptical): 30-45 minutes",
+        "Planks: 3 sets x 30-60 seconds",
+        "Russian Twists: 3 sets x 15-20 reps",
+        "Leg Raises: 3 sets x 12-15 reps"
+      ]
+    },
+    {
+      "id": "4",
+      "head": "Day 4: Rest or Light Cardio",
+      "list": [
+        "Rest day or light cardiovascular exercise."
+      ]
+    },
+    {
+      "id": "5",
+      "head": "Day 5: Upper Body Workout",
+      "list": [
+        "Pull-ups or Lat Pulldowns: 3 sets x 8-12 reps",
+        "Dumbbell Rows: 3 sets x 10-15 reps",
+        "Dumbbell Bench Press: 3 sets x 8-12 reps",
+        "Dumbbell Shoulder Press: 3 sets x 10-15 reps",
+        "Tricep Dips: 3 sets x 12-15 reps"
+      ]
+    },
+    {
+      "id": "6",
+      "head": "Day 6: Lower Body and Cardio",
+      "list": [
+        "Leg Press: 3 sets x 10-15 reps",
+        "Lunges: 3 sets x 12-16 reps (each leg)",
+        "Leg Curls: 3 sets x 10-15 reps",
+        "Cardiovascular exercise: 20-30 minutes"
+      ]
+    },
+    {
+      "id": "7",
+      "head": "Day 7: Rest or Active Recovery",
+      "list": [
+        "Rest day or engage in light activities like walking, yoga, or stretching."
+      ]
+    },
+    {
+      "id": "8",
+      "head": "Nutrition Tips:",
+      "list": [
+        "Consume a calorie surplus: Eat more calories than your body burns to promote weight gain.",
+        "Include a balance of macronutrients: Proteins, carbohydrates, and healthy fats.",
+        "Eat protein-rich foods: Include sources like lean meats, dairy, eggs, and legumes in your diet.",
+        "Stay hydrated: Drink plenty of water throughout the day.",
+        "Consider consulting a nutritionist for personalized advice."
+      ]
+    }
+  ],
+  "igwPostPlan": [
+    {
+      "id": "1",
+      "workout": "Weeks 1-2: Foundation Building",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (30 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (40 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (20 minutes)",
+        "Day 6: Lower Body and Cardio (30 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "2",
+      "workout": "Weeks 3-4: Increasing Intensity",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (35 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (45 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (25 minutes)",
+        "Day 6: Lower Body and Cardio (35 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "3",
+      "workout": "Weeks 5-6: Progressive Overload",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (40 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (50 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (30 minutes)",
+        "Day 6: Lower Body and Cardio (40 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "4",
+      "workout": "Weeks 7-8: Refinement and Consistency",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (45 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (55 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (35 minutes)",
+        "Day 6: Lower Body and Cardio (45 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "5",
+      "workout": "Nutrition Tips (Throughout the 2 Months):",
+      "Days": [
+        "Create a calorie deficit by consuming fewer calories than your body burns.",
+        "Prioritize whole foods, lean proteins, vegetables, and whole grains.",
+        "Stay hydrated and avoid sugary drinks and excessive snacking.",
+        "Monitor your progress and adjust your calorie intake as needed.",
+        "Remember, individual progress may vary, so listen to your body and make adjustments based on your needs. If you have any health concerns or conditions, it's advisable to consult with a healthcare professional or fitness expert before starting a new exercise program."
+      ]
+    }
+  ],
+  "ilwInitialPlan": [
+    {
+      "id": "1",
+      "head": "Day 1: Full Body Workout",
+      "list": [
+        "Squats: 3 sets x 8-12 reps",
+        "Bench Press: 3 sets x 8-12 reps",
+        "Deadlifts: 3 sets x 8-12 reps",
+        "Overhead Press: 3 sets x 8-12 reps"
+      ]
+    },
+    {
+      "id": "2",
+      "head": "Day 2: Rest or Light Cardio",
+      "list": [
+        "Rest day or engage in light cardiovascular exercise like walking or cycling for 30 minutes."
+      ]
+    },
+    {
+      "id": "3",
+      "head": "Full Body Workout",
+      "list": [
+        "Cardiovascular exercise (running, cycling, or elliptical): 30-45 minutes",
+        "Planks: 3 sets x 30-60 seconds",
+        "Russian Twists: 3 sets x 15-20 reps",
+        "Leg Raises: 3 sets x 12-15 reps"
+      ]
+    },
+    {
+      "id": "4",
+      "head": "Day 4: Rest or Light Cardio",
+      "list": [
+        "Rest day or light cardiovascular exercise."
+      ]
+    },
+    {
+      "id": "5",
+      "head": "Day 5: Upper Body Workout",
+      "list": [
+        "Pull-ups or Lat Pulldowns: 3 sets x 8-12 reps",
+        "Dumbbell Rows: 3 sets x 10-15 reps",
+        "Dumbbell Bench Press: 3 sets x 8-12 reps",
+        "Dumbbell Shoulder Press: 3 sets x 10-15 reps",
+        "Tricep Dips: 3 sets x 12-15 reps"
+      ]
+    },
+    {
+      "id": "6",
+      "head": "Day 6: Lower Body and Cardio",
+      "list": [
+        "Leg Press: 3 sets x 10-15 reps",
+        "Lunges: 3 sets x 12-16 reps (each leg)",
+        "Leg Curls: 3 sets x 10-15 reps",
+        "Cardiovascular exercise: 20-30 minutes"
+      ]
+    },
+    {
+      "id": "7",
+      "head": "Day 7: Rest or Active Recovery",
+      "list": [
+        "Rest day or engage in light activities like walking, yoga, or stretching."
+      ]
+    },
+    {
+      "id": "8",
+      "head": "Nutrition Tips:",
+      "list": [
+        "Consume a calorie surplus: Eat more calories than your body burns to promote weight gain.",
+        "Include a balance of macronutrients: Proteins, carbohydrates, and healthy fats.",
+        "Eat protein-rich foods: Include sources like lean meats, dairy, eggs, and legumes in your diet.",
+        "Stay hydrated: Drink plenty of water throughout the day.",
+        "Consider consulting a nutritionist for personalized advice."
+      ]
+    }
+  ],
+  "ilwPostPlan": [
+    {
+      "id": "1",
+      "workout": "Weeks 1-2: Foundation Building",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (30 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (40 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (20 minutes)",
+        "Day 6: Lower Body and Cardio (30 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "2",
+      "workout": "Weeks 3-4: Increasing Intensity",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (35 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (45 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (25 minutes)",
+        "Day 6: Lower Body and Cardio (35 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "3",
+      "workout": "Weeks 5-6: Progressive Overload",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (40 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (50 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (30 minutes)",
+        "Day 6: Lower Body and Cardio (40 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "4",
+      "workout": "Weeks 7-8: Refinement and Consistency",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (45 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (55 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (35 minutes)",
+        "Day 6: Lower Body and Cardio (45 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "5",
+      "workout": "Nutrition Tips (Throughout the 2 Months):",
+      "Days": [
+        "Create a calorie deficit by consuming fewer calories than your body burns.",
+        "Prioritize whole foods, lean proteins, vegetables, and whole grains.",
+        "Stay hydrated and avoid sugary drinks and excessive snacking.",
+        "Monitor your progress and adjust your calorie intake as needed.",
+        "Remember, individual progress may vary, so listen to your body and make adjustments based on your needs. If you have any health concerns or conditions, it's advisable to consult with a healthcare professional or fitness expert before starting a new exercise program."
+      ]
+    }
+  ],
+  "agwInitialPlan": [
+    {
+      "id": "1",
+      "head": "Day 1: Full Body Workout",
+      "list": [
+        "Squats: 3 sets x 8-12 reps",
+        "Bench Press: 3 sets x 8-12 reps",
+        "Deadlifts: 3 sets x 8-12 reps",
+        "Overhead Press: 3 sets x 8-12 reps"
+      ]
+    },
+    {
+      "id": "2",
+      "head": "Day 2: Rest or Light Cardio",
+      "list": [
+        "Rest day or engage in light cardiovascular exercise like walking or cycling for 30 minutes."
+      ]
+    },
+    {
+      "id": "3",
+      "head": "Full Body Workout",
+      "list": [
+        "Cardiovascular exercise (running, cycling, or elliptical): 30-45 minutes",
+        "Planks: 3 sets x 30-60 seconds",
+        "Russian Twists: 3 sets x 15-20 reps",
+        "Leg Raises: 3 sets x 12-15 reps"
+      ]
+    },
+    {
+      "id": "4",
+      "head": "Day 4: Rest or Light Cardio",
+      "list": [
+        "Rest day or light cardiovascular exercise."
+      ]
+    },
+    {
+      "id": "5",
+      "head": "Day 5: Upper Body Workout",
+      "list": [
+        "Pull-ups or Lat Pulldowns: 3 sets x 8-12 reps",
+        "Dumbbell Rows: 3 sets x 10-15 reps",
+        "Dumbbell Bench Press: 3 sets x 8-12 reps",
+        "Dumbbell Shoulder Press: 3 sets x 10-15 reps",
+        "Tricep Dips: 3 sets x 12-15 reps"
+      ]
+    },
+    {
+      "id": "6",
+      "head": "Day 6: Lower Body and Cardio",
+      "list": [
+        "Leg Press: 3 sets x 10-15 reps",
+        "Lunges: 3 sets x 12-16 reps (each leg)",
+        "Leg Curls: 3 sets x 10-15 reps",
+        "Cardiovascular exercise: 20-30 minutes"
+      ]
+    },
+    {
+      "id": "7",
+      "head": "Day 7: Rest or Active Recovery",
+      "list": [
+        "Rest day or engage in light activities like walking, yoga, or stretching."
+      ]
+    },
+    {
+      "id": "8",
+      "head": "Nutrition Tips:",
+      "list": [
+        "Consume a calorie surplus: Eat more calories than your body burns to promote weight gain.",
+        "Include a balance of macronutrients: Proteins, carbohydrates, and healthy fats.",
+        "Eat protein-rich foods: Include sources like lean meats, dairy, eggs, and legumes in your diet.",
+        "Stay hydrated: Drink plenty of water throughout the day.",
+        "Consider consulting a nutritionist for personalized advice."
+      ]
+    }
+  ],
+  "agwPostPlan": [
+    {
+      "id": "1",
+      "workout": "Weeks 1-2: Foundation Building",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (30 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (40 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (20 minutes)",
+        "Day 6: Lower Body and Cardio (30 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "2",
+      "workout": "Weeks 3-4: Increasing Intensity",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (35 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (45 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (25 minutes)",
+        "Day 6: Lower Body and Cardio (35 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "3",
+      "workout": "Weeks 5-6: Progressive Overload",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (40 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (50 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (30 minutes)",
+        "Day 6: Lower Body and Cardio (40 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "4",
+      "workout": "Weeks 7-8: Refinement and Consistency",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (45 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (55 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (35 minutes)",
+        "Day 6: Lower Body and Cardio (45 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "5",
+      "workout": "Nutrition Tips (Throughout the 2 Months):",
+      "Days": [
+        "Create a calorie deficit by consuming fewer calories than your body burns.",
+        "Prioritize whole foods, lean proteins, vegetables, and whole grains.",
+        "Stay hydrated and avoid sugary drinks and excessive snacking.",
+        "Monitor your progress and adjust your calorie intake as needed.",
+        "Remember, individual progress may vary, so listen to your body and make adjustments based on your needs. If you have any health concerns or conditions, it's advisable to consult with a healthcare professional or fitness expert before starting a new exercise program."
+      ]
+    }
+  ],
+  "alwInitialPlan": [
+    {
+      "id": "1",
+      "head": "Day 1: Full Body Workout",
+      "list": [
+        "Squats: 3 sets x 8-12 reps",
+        "Bench Press: 3 sets x 8-12 reps",
+        "Deadlifts: 3 sets x 8-12 reps",
+        "Overhead Press: 3 sets x 8-12 reps"
+      ]
+    },
+    {
+      "id": "2",
+      "head": "Day 2: Rest or Light Cardio",
+      "list": [
+        "Rest day or engage in light cardiovascular exercise like walking or cycling for 30 minutes."
+      ]
+    },
+    {
+      "id": "3",
+      "head": "Full Body Workout",
+      "list": [
+        "Cardiovascular exercise (running, cycling, or elliptical): 30-45 minutes",
+        "Planks: 3 sets x 30-60 seconds",
+        "Russian Twists: 3 sets x 15-20 reps",
+        "Leg Raises: 3 sets x 12-15 reps"
+      ]
+    },
+    {
+      "id": "4",
+      "head": "Day 4: Rest or Light Cardio",
+      "list": [
+        "Rest day or light cardiovascular exercise."
+      ]
+    },
+    {
+      "id": "5",
+      "head": "Day 5: Upper Body Workout",
+      "list": [
+        "Pull-ups or Lat Pulldowns: 3 sets x 8-12 reps",
+        "Dumbbell Rows: 3 sets x 10-15 reps",
+        "Dumbbell Bench Press: 3 sets x 8-12 reps",
+        "Dumbbell Shoulder Press: 3 sets x 10-15 reps",
+        "Tricep Dips: 3 sets x 12-15 reps"
+      ]
+    },
+    {
+      "id": "6",
+      "head": "Day 6: Lower Body and Cardio",
+      "list": [
+        "Leg Press: 3 sets x 10-15 reps",
+        "Lunges: 3 sets x 12-16 reps (each leg)",
+        "Leg Curls: 3 sets x 10-15 reps",
+        "Cardiovascular exercise: 20-30 minutes"
+      ]
+    },
+    {
+      "id": "7",
+      "head": "Day 7: Rest or Active Recovery",
+      "list": [
+        "Rest day or engage in light activities like walking, yoga, or stretching."
+      ]
+    },
+    {
+      "id": "8",
+      "head": "Nutrition Tips:",
+      "list": [
+        "Consume a calorie surplus: Eat more calories than your body burns to promote weight gain.",
+        "Include a balance of macronutrients: Proteins, carbohydrates, and healthy fats.",
+        "Eat protein-rich foods: Include sources like lean meats, dairy, eggs, and legumes in your diet.",
+        "Stay hydrated: Drink plenty of water throughout the day.",
+        "Consider consulting a nutritionist for personalized advice."
+      ]
+    }
+  ],
+  "alwPostPlan": [
+    {
+      "id": "1",
+      "workout": "Weeks 1-2: Foundation Building",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (30 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (40 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (20 minutes)",
+        "Day 6: Lower Body and Cardio (30 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "2",
+      "workout": "Weeks 3-4: Increasing Intensity",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (35 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (45 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (25 minutes)",
+        "Day 6: Lower Body and Cardio (35 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "3",
+      "workout": "Weeks 5-6: Progressive Overload",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (40 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (50 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (30 minutes)",
+        "Day 6: Lower Body and Cardio (40 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "4",
+      "workout": "Weeks 7-8: Refinement and Consistency",
+      "Days": [
+        "Day 1: Full Body Strength Training + Cardio (45 minutes)",
+        "Day 2: Rest or Light Cardio",
+        "Day 3: Cardio and Core (55 minutes)",
+        "Day 4: Rest or Light Cardio",
+        "Day 5: HIIT Workout (35 minutes)",
+        "Day 6: Lower Body and Cardio (45 minutes)",
+        "Day 7: Rest or Active Recovery"
+      ]
+    },
+    {
+      "id": "5",
+      "workout": "Nutrition Tips (Throughout the 2 Months):",
+      "Days": [
+        "Create a calorie deficit by consuming fewer calories than your body burns.",
+        "Prioritize whole foods, lean proteins, vegetables, and whole grains.",
+        "Stay hydrated and avoid sugary drinks and excessive snacking.",
+        "Monitor your progress and adjust your calorie intake as needed.",
+        "Remember, individual progress may vary, so listen to your body and make adjustments based on your needs. If you have any health concerns or conditions, it's advisable to consult with a healthcare professional or fitness expert before starting a new exercise program."
+      ]
+    }
+  ]
+}
